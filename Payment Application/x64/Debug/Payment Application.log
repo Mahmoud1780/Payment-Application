@@ -1,0 +1,13 @@
+﻿  app.c
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(24,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(29,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(34,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(40,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(45,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(50,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(55,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(60,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\DELL\source\repos\Payment Application 2\Payment Application\app.c(65,3): warning C4098: 'main': 'void' function returning a value
+  server.c
+  Generating Code...
+  Payment Application.vcxproj -> C:\Users\DELL\source\repos\Payment Application 2\x64\Debug\Payment Application.exe
